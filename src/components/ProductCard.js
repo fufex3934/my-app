@@ -1,4 +1,4 @@
-export default function ProductCard(){
+export  function ProductCard(){
   return(
     <article>
       <h2>iPhone 15 Pro</h2>

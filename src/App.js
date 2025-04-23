@@ -1,6 +1,6 @@
-
+import { ProductCard } from './components/ProductCard';
 import './App.css';
-import ProductCard from './components/ProductCard.js';
+
 
 function App() {
   return (
